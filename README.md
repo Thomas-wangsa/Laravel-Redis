@@ -12,7 +12,7 @@ Install GUI Redis with NPM https://www.npmjs.com/package/redis-commander
 use git clone https://github.com/Thomas-wangsa/Laravel-Redis.git
 
 # 4. Run Factory Faker
-just type phpunit test/Unit to populate 50.000 rows dummy data users, dont forget set your env :)
+just type phpunit test/Unit to populate 10.000 rows dummy data users, dont forget set your env :)
 
 # 5. Compare the result process time 
 1. run your artisan with php artisan serve, then visit the home route and check the process time
